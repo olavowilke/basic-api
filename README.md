@@ -2,8 +2,7 @@ The point of this API is providing front-end apps easy and functional endpoints 
 
 Note that the API doesn't accept cross-origin requests, a solution for that is [implementing a proxy on the client-side](https://levelup.gitconnected.com/fixing-cors-errors-with-angular-cli-proxy-e5e0ef143f85).
 
-TODO implement CORS
-TODO containerize the app
+> TODO implement CORS, containerize the app
 
 ## What you need
 * Java 11
