@@ -12,4 +12,5 @@ Simply run:
 ``docker run -d -p 8080:8080 olavodetona/my-repo:latest``
 
 To access h2 database console: http://localhost:8080/h2-console/
+
 To access the swagger endpoints: http://localhost:8080/swagger-ui.html
